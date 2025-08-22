@@ -67,5 +67,50 @@ CGTN,http://112.27.235.94:8000/hls/17/index.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台4k,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+翡翠台,https://012v4.pendy.dpdns.org/hls/3672252c-bea6-40ce-b186-e2072a0fd9f9/playlist.m3u8
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+鳳凰衛視中文台,https://011v4.pendy.dpdns.org/stream/tvb/pcc/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+鳳凰衛視中文台,https://live.tvfix.org/live/fhzw/index.m3u8
+鳳凰衛視中文台,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+鳳凰衛視香港台,https://011v4.pendy.dpdns.org/stream/tvb/phk/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+鳳凰衛視香港台,https://live.tvfix.org/live/fhxg/index.m3u8
+鳳凰衛視香港台,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+鳳凰衛視資訊台,https://011v4.pendy.dpdns.org/stream/tvb/pin/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+鳳凰衛視資訊台,https://live.tvfix.org/live/fhzx/index.m3u8
+鳳凰衛視資訊台,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+美亞電影台,https://011v4.pendy.dpdns.org/stream/tvb/cmam/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+美亞電影台,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
+美亞電影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+PopC,https://011v4.pendy.dpdns.org/stream/tvb/popc/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+PopC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
+明珠台,https://011v4.pendy.dpdns.org/stream/tvb/pearl/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+TVB Plus,https://011v4.pendy.dpdns.org/stream/tvb/tvbplus/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+TVB Plus,https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
+TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+天映频道(印尼),https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
+Animax,https://live.tvfix.org/live/animax/index.m3u8
+华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVBS,https://live.tvfix.org/live/tvbs/index.m3u8
+TVBS新闻台,https://live.tvfix.org/live/tvbsnews/index.m3u8
+无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+亚洲新闻台,https://live.tvfix.org/live/newsasia/index.m3u8
+娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
+TVB娱乐新闻台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
+Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
+爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 
 
