@@ -44,3 +44,12 @@ cctv4欧洲，https://tvpull.yun-neng.com/live/903111606b4cc63776fa6cc132725d53.
 贵州卫视，https://tvpull.yun-neng.com/live/f93f27f69d58384212a1075311f75df6.m3u8?txSecret=49eac32addf1283dc16c39cf1d21a3c2&txTime=68b6b15b
 黑龙江卫视，https://tvpull.yun-neng.com/live/69423a1642bc32c09e78f166b5999a04.m3u8?txSecret=ebee224726fc796a7c2f4aeb7ddee0a6&txTime=68b6b15b
 新疆卫视，https://tvpull.yun-neng.com/live/e709955812ee44e2bf6cc6e72dad6de6.m3u8?txSecret=3c5b148aee1365f8a2c72f8c542795c3&txTime=68b6b15b
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://120.198.101.106:9901/tsfile/live/1007_1.m3u8?key=txiptv
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台4k,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+
+
