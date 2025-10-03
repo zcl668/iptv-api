@@ -1,16 +1,13 @@
 🕘️更新时间,#genre#
-2025-10-01 18:42:09,http://rustdesk.szsun.xyz:8088/udp/239.77.0.1:5146$订阅源
+2025-10-03 18:42:28,https://epg.pw/stream/52e4843605cfcef08b1f545c6196ae40253869e76a0f398e617fe35a0b8e9576.m3u8$订阅源
 
 🍎┃广东频道,#genre#
-广东珠江,http://rustdesk.szsun.xyz:8088/udp/239.77.0.1:5146$订阅源
-广东珠江,http://rustdesk.szsun.xyz:8088/udp/239.77.0.1:5146$订阅源
 
 🥭┃卫视频道,#genre#
 浙江卫视,https://epg.pw/stream/52e4843605cfcef08b1f545c6196ae40253869e76a0f398e617fe35a0b8e9576.m3u8$订阅源
 浙江卫视,https://epg.pw/stream/52e4843605cfcef08b1f545c6196ae40253869e76a0f398e617fe35a0b8e9576.m3u8$订阅源
-浙江卫视,https://cc06.tv12.xyz/117.m3u8$订阅源
-浙江卫视,https://cc06.tv12.xyz/117.m3u8$订阅源
 湖南卫视,https://epg.pw/stream/35f58b83aa3042ef296e79ec8594efae9f0358269693dc7d6259e4da9c576639.m3u8$订阅源
+湖南卫视,https://cc06.tv12.xyz/57.m3u8$订阅源
 湖南卫视,https://cc06.tv12.xyz/57.m3u8$订阅源
 东方卫视,https://epg.pw/stream/0d7e424973d9b480a4900c37d93c49f47f514ba52394992af17fc1d0360e5dc7.m3u8$订阅源
 东方卫视,https://cc06.tv12.xyz/37.m3u8$订阅源
@@ -19,7 +16,6 @@
 山东卫视,https://epg.pw/stream/4a343c7c4de4157d46c357cae28382364d74d1884942cf09bd212bfce4beeb7b.m3u8$订阅源
 山东卫视,https://cc06.tv12.xyz/101.m3u8$订阅源
 北京卫视,https://epg.pw/stream/527599ab2491e902c2d6c7fbf1f743020737e612bfa3b5b25cba3a91eb9af0c9.m3u8$订阅源
-北京卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.1.4:5146$订阅源
 北京卫视,https://cc06.tv12.xyz/27.m3u8$订阅源
 安徽卫视,https://epg.pw/stream/74d0819199807044261e4b4f69c2383e5abd84d111ae8ff27aae1138c42ab40e.m3u8$订阅源
 安徽卫视,https://cc06.tv12.xyz/26.m3u8$订阅源
