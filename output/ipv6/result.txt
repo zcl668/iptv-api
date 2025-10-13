@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-11 18:39:36,http://php.jdshipin.com:8880/gztv.php$订阅源
+2025-10-13 18:44:09,http://php.jdshipin.com:8880/gztv.php$订阅源
 
 🍎┃广东频道,#genre#
 广州影视频道,http://php.jdshipin.com:8880/gztv.php$订阅源
@@ -15,9 +15,8 @@
 江苏卫视,https://epg.pw/stream/3c400e138a465843c4649277da9e6ae4b996405d5c3421d1009bed70012d3b24.m3u8$订阅源
 山东卫视,https://epg.pw/stream/4a343c7c4de4157d46c357cae28382364d74d1884942cf09bd212bfce4beeb7b.m3u8$订阅源
 北京卫视,https://epg.pw/stream/527599ab2491e902c2d6c7fbf1f743020737e612bfa3b5b25cba3a91eb9af0c9.m3u8$订阅源
-北京卫视,https://cc06.tv12.xyz/27.m3u8$订阅源
-北京卫视,https://cc06.tv12.xyz/27.m3u8$订阅源
 安徽卫视,https://epg.pw/stream/74d0819199807044261e4b4f69c2383e5abd84d111ae8ff27aae1138c42ab40e.m3u8$订阅源
+安徽卫视,https://cc06.tv12.xyz/26.m3u8$订阅源
 安徽卫视,https://cc06.tv12.xyz/26.m3u8$订阅源
 重庆卫视,https://epg.pw/stream/c670bd09c70e16f7f37bbf2703a224f91f86bb3358a174044a13ff9c8cb1d4fb.m3u8$订阅源
 重庆卫视,https://cc06.tv12.xyz/34.m3u8$订阅源
@@ -80,6 +79,8 @@
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$订阅源
 J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2$订阅源
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$订阅源
+無線新聞台,http://php.jdshipin.com/smt.php?id=inews_twn$订阅源
+无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn$订阅源
 TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe$订阅源
 TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe$订阅源
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe$订阅源
@@ -93,6 +94,7 @@ Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php$订阅源
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
+无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn$订阅源
 
 🍉┃咪咕频道,#genre#
 
