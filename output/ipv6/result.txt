@@ -1,11 +1,7 @@
 🕘️更新时间,#genre#
-2025-10-13 18:44:09,http://php.jdshipin.com:8880/gztv.php$订阅源
+2025-10-15 18:44:36,https://epg.pw/stream/52e4843605cfcef08b1f545c6196ae40253869e76a0f398e617fe35a0b8e9576.m3u8$订阅源
 
 🍎┃广东频道,#genre#
-广州影视频道,http://php.jdshipin.com:8880/gztv.php$订阅源
-广州影视频道,http://php.jdshipin.com:8880/gztv.php$订阅源
-广州竞赛频道,http://php.jdshipin.com:8880/gztv.php$订阅源
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$订阅源
 
 🥭┃卫视频道,#genre#
 浙江卫视,https://epg.pw/stream/52e4843605cfcef08b1f545c6196ae40253869e76a0f398e617fe35a0b8e9576.m3u8$订阅源
@@ -16,9 +12,8 @@
 山东卫视,https://epg.pw/stream/4a343c7c4de4157d46c357cae28382364d74d1884942cf09bd212bfce4beeb7b.m3u8$订阅源
 北京卫视,https://epg.pw/stream/527599ab2491e902c2d6c7fbf1f743020737e612bfa3b5b25cba3a91eb9af0c9.m3u8$订阅源
 安徽卫视,https://epg.pw/stream/74d0819199807044261e4b4f69c2383e5abd84d111ae8ff27aae1138c42ab40e.m3u8$订阅源
-安徽卫视,https://cc06.tv12.xyz/26.m3u8$订阅源
-安徽卫视,https://cc06.tv12.xyz/26.m3u8$订阅源
 重庆卫视,https://epg.pw/stream/c670bd09c70e16f7f37bbf2703a224f91f86bb3358a174044a13ff9c8cb1d4fb.m3u8$订阅源
+重庆卫视,https://cc06.tv12.xyz/34.m3u8$订阅源
 重庆卫视,https://cc06.tv12.xyz/34.m3u8$订阅源
 四川卫视,https://epg.pw/stream/023c60079d2b6422d6f0e61b5153ae46b9dbbcbef1272c39d02614badbb56a13.m3u8$订阅源
 四川卫视,https://cc06.tv12.xyz/99.m3u8$订阅源
@@ -45,7 +40,6 @@
 湖北卫视,https://epg.pw/stream/3298477c4c8d437c353cadb2782404ba26df186e50ae7684666aa6670268fea8.m3u8$订阅源
 湖北卫视,https://cc06.tv12.xyz/50.m3u8$订阅源
 江西卫视,https://epg.pw/stream/1d56b395bdb00424c44f8dbff39c9b2606472caa25b9328fb7231f8a97643de7.m3u8$订阅源
-江西卫视,http://php.jdshipin.com:8880/jxtv2.php?id=1$订阅源
 江西卫视,https://cc06.tv12.xyz/62.m3u8$订阅源
 吉林卫视,https://epg.pw/stream/f845c6ed628a3f947bccdcffba4f8384f1d72236bebee05710123de7850c62b7.m3u8$订阅源
 吉林卫视,https://cc06.tv12.xyz/60.m3u8$订阅源
@@ -64,9 +58,7 @@
 云南卫视,https://epg.pw/stream/b0c9d738954f837090f9545d6ff5942a58cd00c65770ba2c94ad2db8597d9da9.m3u8$订阅源
 云南卫视,https://cc06.tv12.xyz/114.m3u8$订阅源
 西藏卫视,https://epg.pw/stream/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.m3u8$订阅源
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws$订阅源
 西藏卫视,https://cc06.tv12.xyz/112.m3u8$订阅源
-海峡卫视,http://php.jdshipin.com:8880/fujian.php$订阅源
 兵团卫视,https://cc06.tv12.xyz/30.m3u8$订阅源
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$订阅源
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$订阅源
@@ -74,27 +66,12 @@
 延边卫视,https://cc06.tv12.xyz/113.m3u8$订阅源
 
 🍓┃湾区频道,#genre#
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$订阅源
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$订阅源
-J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2$订阅源
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$订阅源
-無線新聞台,http://php.jdshipin.com/smt.php?id=inews_twn$订阅源
-无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn$订阅源
 TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe$订阅源
 TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe$订阅源
-TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe$订阅源
-千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic$订阅源
-美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn$订阅源
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp$订阅源
-Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php$订阅源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
-凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn$订阅源
 
 🍉┃咪咕频道,#genre#
 
