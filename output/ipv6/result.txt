@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-15 18:44:36,https://epg.pw/stream/52e4843605cfcef08b1f545c6196ae40253869e76a0f398e617fe35a0b8e9576.m3u8$订阅源
+2025-10-17 18:42:46,https://epg.pw/stream/52e4843605cfcef08b1f545c6196ae40253869e76a0f398e617fe35a0b8e9576.m3u8$订阅源
 
 🍎┃广东频道,#genre#
 
@@ -13,9 +13,8 @@
 北京卫视,https://epg.pw/stream/527599ab2491e902c2d6c7fbf1f743020737e612bfa3b5b25cba3a91eb9af0c9.m3u8$订阅源
 安徽卫视,https://epg.pw/stream/74d0819199807044261e4b4f69c2383e5abd84d111ae8ff27aae1138c42ab40e.m3u8$订阅源
 重庆卫视,https://epg.pw/stream/c670bd09c70e16f7f37bbf2703a224f91f86bb3358a174044a13ff9c8cb1d4fb.m3u8$订阅源
-重庆卫视,https://cc06.tv12.xyz/34.m3u8$订阅源
-重庆卫视,https://cc06.tv12.xyz/34.m3u8$订阅源
 四川卫视,https://epg.pw/stream/023c60079d2b6422d6f0e61b5153ae46b9dbbcbef1272c39d02614badbb56a13.m3u8$订阅源
+四川卫视,https://cc06.tv12.xyz/99.m3u8$订阅源
 四川卫视,https://cc06.tv12.xyz/99.m3u8$订阅源
 东南卫视,https://epg.pw/stream/027f5341735605fa1b8315181344118a7a0044cd04625f55db27690f683ace1b.m3u8$订阅源
 东南卫视,https://cc06.tv12.xyz/38.m3u8$订阅源
