@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-19 18:39:02,http://php.jdshipin.com:8880/gztv.php$订阅源
+2025-10-21 18:42:41,http://php.jdshipin.com:8880/gztv.php$订阅源
 
 🍎┃广东频道,#genre#
 广州影视频道,http://php.jdshipin.com:8880/gztv.php$订阅源
@@ -55,8 +55,6 @@ J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2$订阅源
 無線新聞台,http://php.jdshipin.com/smt.php?id=inews_twn$订阅源
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn$订阅源
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe$订阅源
-TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe$订阅源
-TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe$订阅源
 千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic$订阅源
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn$订阅源
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp$订阅源
