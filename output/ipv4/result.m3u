@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zcl668/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2025-10-23 18:42:02
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2025-10-25 18:40:20
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$订阅源
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🍎┃广东频道",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$订阅源
@@ -11,22 +11,14 @@ https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a9
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州新闻.png" group-title="🍎┃广东频道",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a$订阅源
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="🥭┃卫视频道",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="🥭┃卫视频道",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="🥭┃卫视频道",浙江卫视
-http://cssbyd.imwork.net:8082/hls/22/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="🥭┃卫视频道",浙江卫视
-http://cssbyd.imwork.net:8082/hls/22/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="🥭┃卫视频道",东方卫视
-http://1.31.14.70:54321/hls/27/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="🥭┃卫视频道",东方卫视
-http://1.31.14.70:54321/hls/27/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="🥭┃卫视频道",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="🥭┃卫视频道",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="🥭┃卫视频道",安徽卫视
+http://222.134.245.16:9901/tsfile/live/0130_1.m3u8$订阅源
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="🥭┃卫视频道",安徽卫视
+http://222.134.245.16:9901/tsfile/live/0130_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="🥭┃卫视频道",东南卫视
 http://139.129.231.228/rtp/239.21.1.113:5002$山东电信组播源-cache:139.129.231.228-组播源
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="🥭┃卫视频道",东南卫视
@@ -38,7 +30,13 @@ http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="🥭┃卫视频道",深圳卫视
 http://1.31.14.70:54321/hls/40/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="🥭┃卫视频道",深圳卫视
+http://1.31.14.70:54321/hls/40/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="🥭┃卫视频道",深圳卫视
 http://139.129.231.228/rtp/239.21.1.93:5002$山东电信组播源-cache:139.129.231.228-组播源
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="🥭┃卫视频道",广东卫视
+http://120.76.248.139/live/bfgd/4200000092.m3u8$订阅源
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="🥭┃卫视频道",广东卫视
+http://120.76.248.139/live/bfgd/4200000092.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="🥭┃卫视频道",广东卫视
 http://139.129.231.228/rtp/239.21.1.92:5002$山东电信组播源-cache:139.129.231.228-组播源
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="🥭┃卫视频道",广西卫视
@@ -58,13 +56,11 @@ http://139.129.231.228/rtp/239.21.1.166:5002$山东电信组播源-cache:139.129
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="🥭┃卫视频道",河北卫视
 http://1.31.14.70:54321/hls/18/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="🥭┃卫视频道",河北卫视
-http://183.11.239.36:808/hls/54/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="🥭┃卫视频道",河北卫视
-http://183.11.239.36:808/hls/54/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="🥭┃卫视频道",河北卫视
 http://139.129.231.228/rtp/239.21.1.168:5002$山东电信组播源-cache:139.129.231.228-组播源
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="🥭┃卫视频道",河南卫视
 http://1.31.14.70:54321/hls/44/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="🥭┃卫视频道",河南卫视
+http://183.11.239.36:808/hls/51/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="🥭┃卫视频道",河南卫视
 http://183.11.239.36:808/hls/51/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="🥭┃卫视频道",河南卫视
@@ -72,13 +68,11 @@ http://139.129.231.228/rtp/239.21.2.37:5002$山东电信组播源-cache:139.129.
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="🥭┃卫视频道",黑龙江卫视
 http://183.11.239.36:808/hls/48/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="🥭┃卫视频道",黑龙江卫视
-http://ygbh.site/php/bfgd.php?id=095$订阅源
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="🥭┃卫视频道",黑龙江卫视
-http://ygbh.site/php/bfgd.php?id=095$订阅源
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="🥭┃卫视频道",黑龙江卫视
 http://139.129.231.228/rtp/239.21.1.91:5002$山东电信组播源-cache:139.129.231.228-组播源
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="🥭┃卫视频道",湖北卫视
 http://183.11.239.36:808/hls/46/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="🥭┃卫视频道",湖北卫视
+http://ygbh.site/php/bfgd.php?id=102$订阅源
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="🥭┃卫视频道",湖北卫视
 http://ygbh.site/php/bfgd.php?id=102$订阅源
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="🥭┃卫视频道",湖北卫视
@@ -98,15 +92,13 @@ http://ygbh.site/php/bfgd.php?id=097$订阅源
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="🥭┃卫视频道",吉林卫视
 http://139.129.231.228/rtp/239.21.2.49:5002$山东电信组播源-cache:139.129.231.228-组播源
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="🥭┃卫视频道",内蒙古卫视
-http://www.cdnstv.com:6398/hls/1143/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="🥭┃卫视频道",内蒙古卫视
-http://www.cdnstv.com:6398/hls/1143/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="🥭┃卫视频道",内蒙古卫视
 http://183.11.239.36:808/hls/60/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="🥭┃卫视频道",内蒙古卫视
 http://ygbh.site/php/bfgd.php?id=110$订阅源
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="🥭┃卫视频道",内蒙古卫视
 http://139.129.231.228/rtp/239.21.1.41:5002$山东电信组播源-cache:139.129.231.228-组播源
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="🥭┃卫视频道",辽宁卫视
+http://www.cdnstv.com:6398/hls/1128/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="🥭┃卫视频道",辽宁卫视
 http://www.cdnstv.com:6398/hls/1128/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="🥭┃卫视频道",辽宁卫视
@@ -116,14 +108,6 @@ http://ygbh.site/php/bfgd.php?id=058$订阅源
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="🥭┃卫视频道",辽宁卫视
 http://139.129.231.228/rtp/239.21.1.164:5002$山东电信组播源-cache:139.129.231.228-组播源
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="🥭┃卫视频道",宁夏卫视
-http://113.15.109.216:59901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="🥭┃卫视频道",宁夏卫视
-http://113.15.109.216:59901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="🥭┃卫视频道",宁夏卫视
-http://sh.lnott.top:880/dx53.m3u8$订阅源
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="🥭┃卫视频道",宁夏卫视
-http://sh.lnott.top:880/dx53.m3u8$订阅源
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="🥭┃卫视频道",宁夏卫视
 http://1.31.14.70:54321/hls/30/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="🥭┃卫视频道",宁夏卫视
 http://www.cdnstv.com:6398/hls/1141/index.m3u8$订阅源
@@ -131,8 +115,10 @@ http://www.cdnstv.com:6398/hls/1141/index.m3u8$订阅源
 http://183.11.239.36:808/hls/106/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="🥭┃卫视频道",宁夏卫视
 http://ygbh.site/php/bfgd.php?id=118$订阅源
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="🥭┃卫视频道",宁夏卫视
+http://139.129.231.228/rtp/239.21.1.44:5002$山东电信组播源-cache:139.129.231.228-组播源
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="🥭┃卫视频道",青海卫视
-http://113.15.109.216:59901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+http://sh.lnott.top:880/dx54.m3u8$订阅源
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="🥭┃卫视频道",青海卫视
 http://sh.lnott.top:880/dx54.m3u8$订阅源
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="🥭┃卫视频道",青海卫视
@@ -140,13 +126,13 @@ http://1.31.14.70:54321/hls/43/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="🥭┃卫视频道",青海卫视
 http://www.cdnstv.com:6398/hls/1148/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="🥭┃卫视频道",青海卫视
+http://123.130.84.106:8154/tsfile/live/0140_1.m3u8$订阅源
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="🥭┃卫视频道",青海卫视
+http://123.130.84.106:8154/tsfile/live/0140_1.m3u8$订阅源
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="🥭┃卫视频道",青海卫视
 http://183.11.239.36:808/hls/61/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="🥭┃卫视频道",青海卫视
 http://ygbh.site/php/bfgd.php?id=111$订阅源
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="🥭┃卫视频道",青海卫视
-http://139.129.231.228/rtp/239.21.1.43:5002$山东电信组播源-cache:139.129.231.228-组播源
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="🥭┃卫视频道",天津卫视
-http://113.15.109.216:59901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="🥭┃卫视频道",天津卫视
 http://sh.lnott.top:880/dx30.m3u8$订阅源
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="🥭┃卫视频道",天津卫视
@@ -154,11 +140,9 @@ http://www.cdnstv.com:6398/hls/1137/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="🥭┃卫视频道",天津卫视
 http://183.11.239.36:808/hls/42/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="🥭┃卫视频道",天津卫视
-http://58.57.40.22:9901/tsfile/live/1034_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="🥭┃卫视频道",天津卫视
 http://ygbh.site/php/bfgd.php?id=084$订阅源
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="🥭┃卫视频道",天津卫视
-http://58.57.40.22:9901/tsfile/live/1034_1.m3u8$订阅源
+http://123.130.84.106/rtp/239.253.254.89:8000$山东联通组播源-cache:123.130.84.106-组播源
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="🥭┃卫视频道",天津卫视
 http://139.129.231.228/rtp/239.21.1.165:5002$山东电信组播源-cache:139.129.231.228-组播源
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="🥭┃卫视频道",海南卫视
@@ -168,9 +152,13 @@ http://www.cdnstv.com:6398/hls/1146/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="🥭┃卫视频道",海南卫视
 http://183.11.239.36:808/hls/124/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="🥭┃卫视频道",海南卫视
+http://58.57.40.22:9901/tsfile/live/1000_1.m3u8$订阅源
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="🥭┃卫视频道",海南卫视
 http://ygbh.site/php/bfgd.php?id=473$订阅源
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="🥭┃卫视频道",海南卫视
 http://58.57.40.22:9901/tsfile/live/1000_1.m3u8$订阅源
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="🥭┃卫视频道",海南卫视
+http://123.130.84.106/rtp/239.253.254.179:8000$山东联通组播源-cache:123.130.84.106-组播源
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="🥭┃卫视频道",海南卫视
 http://139.129.231.228/rtp/239.21.2.14:5002$山东电信组播源-cache:139.129.231.228-组播源
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="🥭┃卫视频道",新疆卫视
@@ -186,8 +174,6 @@ http://58.57.40.22:9901/tsfile/live/1055_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="🥭┃卫视频道",新疆卫视
 http://139.129.231.228/rtp/239.21.1.45:5002$山东电信组播源-cache:139.129.231.228-组播源
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="🥭┃卫视频道",云南卫视
-http://113.15.109.216:59901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="🥭┃卫视频道",云南卫视
 http://sh.lnott.top:880/dx49.m3u8$订阅源
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="🥭┃卫视频道",云南卫视
 http://1.31.14.70:54321/hls/37/index.m3u8$订阅源
@@ -199,6 +185,8 @@ http://183.11.239.36:808/hls/52/index.m3u8$订阅源
 http://ygbh.site/php/bfgd.php?id=482$订阅源
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="🥭┃卫视频道",云南卫视
 http://58.57.40.22:9901/tsfile/live/1047_1.m3u8$订阅源
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="🥭┃卫视频道",云南卫视
+http://123.130.84.106/rtp/239.253.254.196:8000$山东联通组播源-cache:123.130.84.106-组播源
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="🥭┃卫视频道",云南卫视
 http://139.129.231.228/rtp/239.21.1.40:5002$山东电信组播源-cache:139.129.231.228-组播源
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="🥭┃卫视频道",西藏卫视
@@ -236,19 +224,11 @@ http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#$订阅源
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="🥭┃卫视频道",延边卫视
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#$订阅源
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="🥭┃卫视频道",延边卫视
-http://120.76.248.139/live/bfgd/4200000117.m3u8$订阅源
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="🥭┃卫视频道",延边卫视
 http://ygbh.site/php/bfgd.php?id=117$订阅源
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="🥭┃卫视频道",延边卫视
-http://120.76.248.139/live/bfgd/4200000117.m3u8$订阅源
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🍓┃湾区频道",翡翠台
 https://cdn.iptv8k.top/dl/jrys.php$订阅源
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🍓┃湾区频道",翡翠台
 https://cdn.iptv8k.top/dl/jrys.php$订阅源
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
 http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass$订阅源
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
@@ -259,6 +239,8 @@ http://61.221.215.25:8800/hls/47/index.m3u8$订阅源
 http://61.221.215.25:8800/hls/47/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
 http://58.19.180.108:9981/stream/channelid/708272803?profile=pass$订阅源
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🍓┃湾区频道",明珠台
+http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🍓┃湾区频道",明珠台
 http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天娱乐.png" group-title="🍓┃湾区频道",中天娱乐
@@ -289,14 +271,14 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源
 https://cdn.iptv8k.top/dl/jrys.php$订阅源
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🐟┃少儿频道",动漫秀场
 http://www.cdnstv.com:6398/hls/1180/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🐟┃少儿频道",动漫秀场
+http://123.130.84.106/rtp/239.253.254.115:8000$山东联通组播源-cache:123.130.84.106-组播源
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哈哈炫动.png" group-title="🐟┃少儿频道",哈哈炫动
 http://sh.lnott.top:880/dx89.m3u8$订阅源
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哈哈炫动.png" group-title="🐟┃少儿频道",哈哈炫动
 http://58.57.40.22:9901/tsfile/live/1061_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哈哈炫动.png" group-title="🐟┃少儿频道",哈哈炫动
 http://139.129.231.228/rtp/239.21.1.51:5002$山东电信组播源-cache:139.129.231.228-组播源
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🐟┃少儿频道",金鹰卡通
-http://113.15.109.216:59901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🐟┃少儿频道",金鹰卡通
 http://sh.lnott.top:880/dx88.m3u8$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🐟┃少儿频道",金鹰卡通
@@ -307,6 +289,8 @@ http://183.11.239.36:808/hls/69/index.m3u8$订阅源
 http://ygbh.site/php/bfgd.php?id=105$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🐟┃少儿频道",金鹰卡通
 http://58.57.40.22:9901/tsfile/live/1059_1.m3u8$订阅源
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🐟┃少儿频道",金鹰卡通
+http://123.130.84.106/rtp/239.253.254.117:8000$山东联通组播源-cache:123.130.84.106-组播源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🐟┃少儿频道",金鹰卡通
 http://139.129.231.228/rtp/239.21.1.48:5002$山东电信组播源-cache:139.129.231.228-组播源
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="🐟┃少儿频道",优漫卡通
