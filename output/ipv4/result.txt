@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-29 18:28:18,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
+2025-12-01 18:32:48,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
 
 🍎┃广东频道,#genre#
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
@@ -13,17 +13,17 @@
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
+厦门卫视,http://125.42.151.128:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+厦门卫视,http://125.42.151.128:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 南方卫视,http://60.16.0.216:5757/hls/28/index.m3u8$订阅源
 南方卫视,http://60.16.0.216:5757/hls/28/index.m3u8$订阅源
-辽宁卫视,http://cssbyd.imwork.net:8082/hls/29/index.m3u8$订阅源
-辽宁卫视,http://cssbyd.imwork.net:8082/hls/29/index.m3u8$订阅源
+天津卫视,http://cssbyd.imwork.net:8082/hls/26/index.m3u8$订阅源
 天津卫视,http://cssbyd.imwork.net:8082/hls/26/index.m3u8$订阅源
 新疆卫视,http://cssbyd.imwork.net:8082/hls/47/index.m3u8$订阅源
 云南卫视,http://cssbyd.imwork.net:8082/hls/36/index.m3u8$订阅源
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8$订阅源
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8$订阅源
-兵团卫视,http://ygbh.site/php/bfgd.php?id=124$订阅源
-兵团卫视,http://ygbh.site/php/bfgd.php?id=124$订阅源
+农林卫视,http://ygbh.site/php/bfgd.php?id=122$订阅源
 农林卫视,http://ygbh.site/php/bfgd.php?id=122$订阅源
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#$订阅源
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#$订阅源
@@ -43,34 +43,34 @@
 无线新闻台,https://cdn.iptv8k.top/dl/jspd.php$订阅源
 无线新闻台,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8$订阅源
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8$订阅源
+寰宇新聞台,http://fm1077.serv00.net/Smart.php?id=huanyuxinwen_twn$订阅源
+寰宇新聞台,http://fm1077.serv00.net/Smart.php?id=huanyuxinwen_twn$订阅源
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8$订阅源
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8$订阅源
+Animax,http://fm1077.serv00.net/Smart.php?id=Animax$订阅源
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 东森综合,https://cdn.iptv8k.top/dl/jrys.php$订阅源
 东森超视,rtmp://f13h.mine.nu/sat/tv331$订阅源
 东森超视,https://cdn.iptv8k.top/dl/jrys.php$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源
+中視,http://fm1077.serv00.net/Smart.php?id=zhongshihd_twn$订阅源
+華視,http://fm1077.serv00.net/Smart.php?id=ctshd_twn$订阅源
+凤凰香港,http://fm1077.serv00.net/Smart.php?id=hkphoenix_twn$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源
 无线新闻,https://cdn.iptv8k.top/dl/jspd.php$订阅源
 无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php$订阅源
 
 🍉┃咪咕频道,#genre#
-东方卫视咪咕,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfwsH265_4000.m3u8$订阅源
-东方卫视咪咕,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfwsH265_4000.m3u8$订阅源
-江苏卫视咪咕,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/jswsH265_4000.m3u8$订阅源
-陕西卫视咪咕,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws_4000.m3u8$订阅源
-湖北卫视咪咕,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/hbwsH265_4000.m3u8$订阅源
-江西卫视咪咕,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/jxwsH265_4000.m3u8$订阅源
+东方卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfwsH265_4000.m3u8$订阅源
+东方卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfwsH265_4000.m3u8$订阅源
+江苏卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jswsH265_4000.m3u8$订阅源
+陕西卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws_4000.m3u8$订阅源
+湖北卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hbwsH265_4000.m3u8$订阅源
+江西卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jxwsH265_4000.m3u8$订阅源
 
 🐟┃少儿频道,#genre#
-金鹰卡通,http://221.13.235.60:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-金鹰卡通,http://221.13.235.60:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 金鹰卡通,http://ygbh.site/php/bfgd.php?id=105$订阅源
-广东少儿,http://183.11.239.36:808/hls/175/index.m3u8$订阅源
-广东少儿,http://183.11.239.36:808/hls/175/index.m3u8$订阅源
 
 🐶┃影视频道,#genre#
-CHC动作电影,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8$订阅源
-CHC家庭影院,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8$订阅源
