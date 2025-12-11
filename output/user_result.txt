@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-09 18:33:50,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
+2025-12-11 18:33:25,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
 
 🍎┃广东频道,#genre#
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
@@ -12,28 +12,38 @@
 🥭┃卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$订阅源
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8$订阅源
 四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8$订阅源
-深圳卫视,http://182.150.23.74:808/hls/20/index.m3u8$订阅源
-深圳卫视,http://182.150.23.74:808/hls/20/index.m3u8$订阅源
+东南卫视,http://123.129.70.178:9901/tsfile/live/0137_1.m3u8$订阅源
+东南卫视,http://123.129.70.178:9901/tsfile/live/0137_1.m3u8$订阅源
 南方卫视,http://60.16.0.216:5757/hls/28/index.m3u8$订阅源
 南方卫视,http://60.16.0.216:5757/hls/28/index.m3u8$订阅源
 贵州卫视,http://182.150.23.74:808/hls/26/index.m3u8$订阅源
-内蒙古卫视,http://61.156.228.12:8154/tsfile/live/0109_1.m3u8$订阅源
-内蒙古卫视,http://61.156.228.12:8154/tsfile/live/0109_1.m3u8$订阅源
+贵州卫视,http://182.150.23.74:808/hls/26/index.m3u8$订阅源
 内蒙古卫视,http://60.16.0.216:5757/hls/41/index.m3u8$订阅源
 辽宁卫视,http://61.156.228.12:8154/tsfile/live/0121_1.m3u8$订阅源
-辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8$订阅源
-辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8$订阅源
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8$订阅源
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8$订阅源
+辽宁卫视,http://61.156.228.12:8154/tsfile/live/0121_1.m3u8$订阅源
+海南卫视,http://8.138.7.223/tv/hainan.php?id=hnws$订阅源
+海南卫视,http://8.138.7.223/tv/hainan.php?id=hnws$订阅源
+新疆卫视,http://8.138.7.223/tv/migu3.php?id=xjws$订阅源
+云南卫视,http://8.138.7.223/tv/migu3.php?id=ynws$订阅源
+西藏卫视,http://8.138.7.223/tv/migu3.php?id=xzws$订阅源
+海峡卫视,http://8.138.7.223/tv/migu3.php?id=hxws$订阅源
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist1.m3u8$订阅源
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist1.m3u8$订阅源
+兵团卫视,http://8.138.7.223/tv/btws.m3u8$订阅源
+农林卫视,http://8.138.7.223/【公众号：榴芒电视】/农林卫视.m3u8$订阅源
+三沙卫视,http://8.138.7.223/tv/hainan.php?id=ssws$订阅源
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#$订阅源
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#$订阅源
 
 🍓┃湾区频道,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php$订阅源
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php$订阅源
+凤凰中文,http://8.138.7.223/tv/fh.php?id=1$订阅源
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8$订阅源
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8$订阅源
 明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8$订阅源
@@ -51,15 +61,21 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 东森超视,rtmp://f13h.mine.nu/sat/tv331$订阅源
 东森超视,https://cdn.iptv8k.top/dl/jrys.php$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源
+凤凰香港,http://8.138.7.223/tv/fh.php?id=3$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源
 无线新闻,https://cdn.iptv8k.top/dl/jspd.php$订阅源
 无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php$订阅源
+纬来体育,http://8.138.7.223/【公众号：榴芒电视】/wlty.m3u8$订阅源
 
 🍉┃咪咕频道,#genre#
 
 🐟┃少儿频道,#genre#
-金鹰卡通,http://125.42.148.146:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-金鹰卡通,http://125.42.148.146:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+金鹰卡通,http://8.138.7.223/tv/mgtv.php?id=287$订阅源
+金鹰卡通,http://101.66.198.176:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+金鹰卡通,http://101.66.198.176:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+优漫卡通,http://8.138.7.223/tv/dl/jstv.php?id=ymkt$订阅源
 
 🐶┃影视频道,#genre#
+CHC动作电影,http://8.138.7.223/tv/migu3.php?id=chcdzdy$订阅源
+CHC家庭影院,http://8.138.7.223/tv/migu3.php?id=chcjtdy$订阅源
