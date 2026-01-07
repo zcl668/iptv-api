@@ -1,12 +1,30 @@
 🕘️更新时间,#genre#
-2026-01-05 18:31:42,http://120.238.94.82:9901/tsfile/live/1011_1.m3u8?key=txiptv$订阅源
+2026-01-07 18:30:45,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$订阅源
 
 🍎┃广东频道,#genre#
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$订阅源
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$订阅源
+广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$订阅源
+广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$订阅源
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
+广州新闻,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8$订阅源
+广州新闻,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8$订阅源
+广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3$订阅源
+广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8$订阅源
+广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a$订阅源
+广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8$订阅源
+广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8$订阅源
+广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8$订阅源
+广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8$订阅源
+广东珠江,http://8.138.7.223/tv/gd.php?id=0002$订阅源
+广东珠江,http://8.138.7.223/tv/gd.php?id=0002$订阅源
+广东珠江,http://183.11.239.36:808/hls/83/index.m3u8$订阅源
+广东珠江,http://183.11.239.36:808/hls/83/index.m3u8$订阅源
+广州影视频道,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8$订阅源
 广东民生,http://120.238.94.82:9901/tsfile/live/1011_1.m3u8?key=txiptv$订阅源
 广东民生,http://120.238.94.82:9901/tsfile/live/1011_1.m3u8?key=txiptv$订阅源
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8$订阅源
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8$订阅源
-广东民生,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=tcaCFf&tk=bknhp6JvJlqE$订阅源
 广东民生,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=tcaCFf&tk=bknhp6JvJlqE$订阅源
 
 🥭┃卫视频道,#genre#
@@ -15,28 +33,23 @@
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$订阅源
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
-四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8$订阅源
-四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8$订阅源
-广东卫视,http://btjg.net:809/hls/32/index.m3u8$订阅源
-广东卫视,http://btjg.net:809/hls/32/index.m3u8$订阅源
 广东卫视,http://39.152.103.17:8089/tsfile/live/1042_1.m3u8$订阅源
-广西卫视,http://btjg.net:809/hls/40/index.m3u8$订阅源
+广东卫视,http://39.152.103.17:8089/tsfile/live/1042_1.m3u8$订阅源
 广西卫视,http://39.152.103.17:8089/tsfile/live/1077_1.m3u8$订阅源
+广西卫视,http://btjg.net:809/hls/40/index.m3u8$订阅源
+广西卫视,http://btjg.net:809/hls/40/index.m3u8$订阅源
 南方卫视,http://60.16.0.216:5757/hls/28/index.m3u8$订阅源
 南方卫视,http://60.16.0.216:5757/hls/28/index.m3u8$订阅源
-黑龙江卫视,http://btjg.net:809/hls/39/index.m3u8$订阅源
 黑龙江卫视,http://39.152.103.17:8089/tsfile/live/1055_1.m3u8$订阅源
+黑龙江卫视,http://btjg.net:809/hls/39/index.m3u8$订阅源
 内蒙古卫视,http://60.16.0.216:5757/hls/41/index.m3u8$订阅源
-海南卫视,http://8.138.7.223/tv/hainan.php?id=hnws$订阅源
-海南卫视,http://8.138.7.223/tv/hainan.php?id=hnws$订阅源
 海南卫视,http://39.152.103.17:8089/tsfile/live/1046_1.m3u8$订阅源
+海南卫视,http://8.138.7.223/tv/hainan.php?id=hnws$订阅源
 新疆卫视,http://8.138.7.223/tv/migu3.php?id=xjws$订阅源
-云南卫视,http://8.138.7.223/tv/migu3.php?id=ynws$订阅源
 云南卫视,http://btjg.net:809/hls/53/index.m3u8$订阅源
-云南卫视,http://120.211.62.180:8000/hls/39/index.m3u8$订阅源
-云南卫视,http://120.211.62.180:8000/hls/39/index.m3u8$订阅源
-西藏卫视,http://8.138.7.223/tv/migu3.php?id=xzws$订阅源
+云南卫视,http://8.138.7.223/tv/migu3.php?id=ynws$订阅源
 西藏卫视,http://btjg.net:809/hls/140/index.m3u8$订阅源
+西藏卫视,http://8.138.7.223/tv/migu3.php?id=xzws$订阅源
 海峡卫视,http://8.138.7.223/tv/migu3.php?id=hxws$订阅源
 兵团卫视,http://8.138.7.223/tv/btws.m3u8$订阅源
 农林卫视,http://8.138.7.223/【公众号：榴芒电视】/农林卫视.m3u8$订阅源
@@ -79,8 +92,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源
 优漫卡通,http://8.138.7.223/tv/dl/jstv.php?id=ymkt$订阅源
 
 🐶┃影视频道,#genre#
+CHC动作电影,http://129.150.54.232:10001/yy/1382736809$订阅源
+CHC动作电影,http://129.150.54.232:10001/yy/1382736809$订阅源
 CHC动作电影,http://8.138.7.223/tv/migu3.php?id=chcdzdy$订阅源
-CHC动作电影,http://129.150.54.232:10001/yy/1382736809$订阅源
-CHC动作电影,http://129.150.54.232:10001/yy/1382736809$订阅源
 CHC家庭影院,http://8.138.7.223/tv/migu3.php?id=chcjtdy$订阅源
-纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148$订阅源
