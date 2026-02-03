@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-01 18:33:06,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$订阅源
+2026-02-03 18:47:57,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$订阅源
 
 🍎┃广东频道,#genre#
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$订阅源
@@ -23,38 +23,34 @@
 广东民生,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=tcaCFf&tk=bknhp6JvJlqE$订阅源
 
 🥭┃卫视频道,#genre#
-浙江卫视,http://69.30.246.194/live/zjws.m3u8$订阅源
-浙江卫视,http://69.30.246.194/live/zjws.m3u8$订阅源
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8$订阅源
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8$订阅源
+浙江卫视,http://69.30.246.194/live/zjws.m3u8$订阅源
+浙江卫视,http://69.30.246.194/live/zjws.m3u8$订阅源
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8$订阅源
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8$订阅源
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8$订阅源
 湖南卫视,http://69.30.246.194/live/hnws.m3u8$订阅源
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8$订阅源
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$订阅源
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$订阅源
-湖南卫视,http://43.251.226.89:8080/play/920.m3u8$订阅源
-湖南卫视,http://43.251.226.89:8080/play/920.m3u8$订阅源
-东方卫视,http://69.30.246.194/live/dfws.m3u8$订阅源
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8$订阅源
+东方卫视,http://69.30.246.194/live/dfws.m3u8$订阅源
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$订阅源
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$订阅源
 江苏卫视,http://69.30.246.194/live/jsws.m3u8$订阅源
-江苏卫视,http://43.251.226.89:8080/play/503.m3u8$订阅源
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 北京卫视,http://23.237.228.134/live3/beijing.m3u8$订阅源
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
+北京卫视,http://222.169.85.8:9901/tsfile/live/0017_1.m3u8$订阅源
+北京卫视,http://222.169.85.8:9901/tsfile/live/0017_1.m3u8$订阅源
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8$订阅源
-安徽卫视,http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8$订阅源
-安徽卫视,http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8$订阅源
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8$订阅源
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
 东南卫视,http://23.237.228.134/live8/gansu.m3u8$订阅源
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8$订阅源
+深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 深圳卫视,http://120.238.94.82:9901/tsfile/live/1065_1.m3u8$订阅源
-深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8$订阅源
@@ -65,13 +61,19 @@
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8$订阅源
 贵州卫视,http://60.16.0.216:5757/hls/37/index.m3u8$订阅源
 贵州卫视,http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8$订阅源
+贵州卫视,http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8$订阅源
+贵州卫视,http://222.214.208.34:59901/tsfile/live/0120_1.m3u8$订阅源
+贵州卫视,http://222.214.208.34:59901/tsfile/live/0120_1.m3u8$订阅源
 河北卫视,http://23.237.228.134/live8/hebei.m3u8$订阅源
+河北卫视,http://112.123.243.37:50085/tsfile/live/0018_1.m3u8$订阅源
+河北卫视,http://112.123.243.37:50085/tsfile/live/0018_1.m3u8$订阅源
 河北卫视,http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8$订阅源
 河南卫视,http://23.237.228.134/live6/henan.m3u8$订阅源
 黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8$订阅源
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8$订阅源
 湖北卫视,http://60.16.0.216:5757/hls/33/index.m3u8$订阅源
 江西卫视,http://23.237.228.134/live8/jiangxi.m3u8$订阅源
+江西卫视,http://222.214.208.34:59901/tsfile/live/0138_1.m3u8$订阅源
 吉林卫视,http://23.237.228.134/live8/jilin.m3u8$订阅源
 内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8$订阅源
 内蒙古卫视,http://60.16.0.216:5757/hls/41/index.m3u8$订阅源
@@ -130,4 +132,3 @@ CHC动作电影,http://8.138.7.223/tv/migu3.php?id=chcdzdy$订阅源
 CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$订阅源
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub$订阅源
 CHC家庭影院,http://8.138.7.223/tv/migu3.php?id=chcjtdy$订阅源
-纬来电影,http://43.251.226.89:8080/play/679.m3u8$订阅源
