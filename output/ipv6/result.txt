@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-02-03 18:47:57,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
+2026-02-05 18:48:29,http://r.jdshipin.com/sE5vO$订阅源
 
 🍎┃广东频道,#genre#
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
 广东珠江,http://r.jdshipin.com/sE5vO$订阅源
 广东珠江,http://r.jdshipin.com/sE5vO$订阅源
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
 广州影视频道,http://php.jdshipin.com:8880/gztv.php$订阅源
 广州竞赛频道,http://php.jdshipin.com:8880/gztv.php$订阅源
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$订阅源
@@ -22,8 +22,6 @@
 东南卫视,https://epg.pw/stream/027f5341735605fa1b8315181344118a7a0044cd04625f55db27690f683ace1b.m3u8$订阅源
 深圳卫视,https://epg.pw/stream/62b5e70e6dfdecb2c68644af936dd41284658224f75dd8ab5be752691d4bb2e2.m3u8$订阅源
 广东卫视,https://epg.pw/stream/23718014ee69495ab3ace3cc974c9da1b887a4eef6e698a2afabbbfa8afac0be.m3u8$订阅源
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
 厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv$订阅源
 甘肃卫视,https://epg.pw/stream/7cc76bed6f2f891b941844bc0fa168c739d41772a8435e20998d4ca4594ebea2.m3u8$订阅源
 贵州卫视,https://epg.pw/stream/312ad11b90b9c160ab27f6d44a5fb7b97bcd98c4f1f7c4c3f253320636a2d230.m3u8$订阅源
