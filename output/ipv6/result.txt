@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-01 18:33:18,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
+2026-03-03 18:44:39,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
 
 🍎┃广东频道,#genre#
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
