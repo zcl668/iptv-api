@@ -1,8 +1,11 @@
 🕘️更新时间,#genre#
-2026-03-21 18:34:41,http://php.jdshipin.com:8880/gztv.php$订阅源
+2026-03-23 19:01:35,http://r.jdshipin.com/sE5vO$订阅源
 
 🍎┃广东频道,#genre#
-广州影视频道,http://php.jdshipin.com:8880/gztv.php$订阅源
+广东珠江,http://r.jdshipin.com/sE5vO$订阅源
+广东珠江,http://r.jdshipin.com/sE5vO$订阅源
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
 广州影视频道,http://php.jdshipin.com:8880/gztv.php$订阅源
 广州竞赛频道,http://php.jdshipin.com:8880/gztv.php$订阅源
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$订阅源
@@ -26,8 +29,8 @@
 河南卫视,https://epg.pw/stream/23db28c32ab3480201f1786bd63814a74e07902931ef4aa44300461df3ec1495.m3u8$订阅源
 黑龙江卫视,https://epg.pw/stream/60b1639671bc7225b86050c2f82bb0548932762ca933a2d847cb96ea4ef3b0bf.m3u8$订阅源
 湖北卫视,https://epg.pw/stream/3298477c4c8d437c353cadb2782404ba26df186e50ae7684666aa6670268fea8.m3u8$订阅源
-江西卫视,https://epg.pw/stream/1d56b395bdb00424c44f8dbff39c9b2606472caa25b9328fb7231f8a97643de7.m3u8$订阅源
 江西卫视,http://php.jdshipin.com:8880/jxtv2.php?id=1$订阅源
+江西卫视,https://epg.pw/stream/1d56b395bdb00424c44f8dbff39c9b2606472caa25b9328fb7231f8a97643de7.m3u8$订阅源
 吉林卫视,https://epg.pw/stream/f845c6ed628a3f947bccdcffba4f8384f1d72236bebee05710123de7850c62b7.m3u8$订阅源
 内蒙古卫视,https://epg.pw/stream/4771a189ad19420bb986b757be6eebee1b68d9f586e1580a742e4a63d015a966.m3u8$订阅源
 辽宁卫视,https://epg.pw/stream/21ba42e25e1f832430d912489ac2a4370c967f7c9a824da311f3f77bc40e1b1c.m3u8$订阅源
@@ -38,10 +41,10 @@
 海南卫视,https://epg.pw/stream/77c038834bb30008f04aeadd4c44389af9e18e837775e1f124f392a0c15f851c.m3u8$订阅源
 新疆卫视,https://epg.pw/stream/369d82e2913254f5a712ca6bcb0931176462d5a46be06f9771cdcf93f7f35cdb.m3u8$订阅源
 云南卫视,https://epg.pw/stream/b0c9d738954f837090f9545d6ff5942a58cd00c65770ba2c94ad2db8597d9da9.m3u8$订阅源
-西藏卫视,https://epg.pw/stream/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.m3u8$订阅源
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws$订阅源
-海峡卫视,https://www.freetv.top/migu/849119120.m3u8$订阅源
+西藏卫视,https://epg.pw/stream/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.m3u8$订阅源
 海峡卫视,http://php.jdshipin.com:8880/fujian.php$订阅源
+海峡卫视,https://www.freetv.top/migu/849119120.m3u8$订阅源
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing$订阅源
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing$订阅源
 
@@ -49,6 +52,7 @@
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$订阅源
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$订阅源
+J2,http://php.jdshipin.com/TVOD/iptv.php$订阅源
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$订阅源
 無線新聞台,http://php.jdshipin.com/smt.php?id=inews_twn$订阅源
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn$订阅源
@@ -76,8 +80,8 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 东森幼幼,http://free.cnlive.club/channel/798aeeee.m3u8$订阅源
 
 🐶┃影视频道,#genre#
-CHC动作电影,https://www.freetv.top/migu/644368714.m3u8$订阅源
 CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php$订阅源
-CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8$订阅源
+CHC动作电影,https://www.freetv.top/migu/644368714.m3u8$订阅源
 CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php$订阅源
+CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8$订阅源
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$订阅源
