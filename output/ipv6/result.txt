@@ -1,14 +1,20 @@
 🕘️更新时间,#genre#
-2026-05-01 19:13:32,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
+2026-05-03 19:05:09,http://php.jdshipin.com:8880/gztv.php?id=zhonghe$订阅源
 
 🍎┃广东频道,#genre#
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
-广东珠江,http://r.jdshipin.com/sE5vO$订阅源
+广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe$订阅源
+广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe$订阅源
+广州综合,http://r.jdshipin.com/iR6Gq$订阅源
+广州综合,http://r.jdshipin.com/iR6Gq$订阅源
+广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen$订阅源
+广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj$订阅源
 广东珠江,http://r.jdshipin.com/sE5vO$订阅源
 广州影视频道,http://php.jdshipin.com:8880/gztv.php$订阅源
 广州竞赛频道,http://php.jdshipin.com:8880/gztv.php$订阅源
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$订阅源
+广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty$订阅源
+广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms$订阅源
+广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys$订阅源
+大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws$订阅源
 
 🥭┃卫视频道,#genre#
 东方卫视,https://epg.pw/stream/0d7e424973d9b480a4900c37d93c49f47f514ba52394992af17fc1d0360e5dc7.m3u8$订阅源
@@ -21,6 +27,7 @@
 四川卫视,https://epg.pw/stream/023c60079d2b6422d6f0e61b5153ae46b9dbbcbef1272c39d02614badbb56a13.m3u8$订阅源
 东南卫视,https://epg.pw/stream/027f5341735605fa1b8315181344118a7a0044cd04625f55db27690f683ace1b.m3u8$订阅源
 深圳卫视,https://epg.pw/stream/62b5e70e6dfdecb2c68644af936dd41284658224f75dd8ab5be752691d4bb2e2.m3u8$订阅源
+广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws$订阅源
 广东卫视,https://epg.pw/stream/23718014ee69495ab3ace3cc974c9da1b887a4eef6e698a2afabbbfa8afac0be.m3u8$订阅源
 厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv$订阅源
 甘肃卫视,https://epg.pw/stream/7cc76bed6f2f891b941844bc0fa168c739d41772a8435e20998d4ca4594ebea2.m3u8$订阅源
@@ -47,12 +54,20 @@
 
 🍓┃湾区频道,#genre#
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$订阅源
+翡翠台,http://r.jdshipin.com/GeWKr?id=fct720$订阅源
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
+凤凰中文,http://r.jdshipin.com/cCCzW$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$订阅源
+凤凰资讯,http://r.jdshipin.com/0Rp07$订阅源
+J2,http://r.jdshipin.com/Nr5jq$订阅源
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$订阅源
+明珠台,http://r.jdshipin.com/GeWKr?id=mzt720$订阅源
 無線新聞台,http://php.jdshipin.com/smt.php?id=inews_twn$订阅源
+無線新聞台,http://r.jdshipin.com/CkuBd$订阅源
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn$订阅源
+无线新闻台,http://r.jdshipin.com/CkuBd$订阅源
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe$订阅源
+TVB星河,http://r.jdshipin.com/sXuuD$订阅源
 千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic$订阅源
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn$订阅源
 美亚电影粤,http://php.jdshipin.com:8880/TVOD/iptv.php$订阅源
@@ -61,10 +76,12 @@ Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php$订阅源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
+凤凰香港,https://epg.pw/stream/8aa4301596dada4db1a6c94086183a8b733c3ade2254e0bbf1130a576faac531.m3u8#https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8#https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn$订阅源
+无线新闻,http://r.jdshipin.com/CkuBd$订阅源
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8$订阅源
 
 🍉┃咪咕频道,#genre#
@@ -75,10 +92,11 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🐟┃少儿频道,#genre#
 东森幼幼,http://free.cnlive.club/channel/798aeeee.m3u8$订阅源
 东森幼幼,http://free.cnlive.club/channel/798aeeee.m3u8$订阅源
+广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse$订阅源
 
 🐶┃影视频道,#genre#
-CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php$订阅源
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8$订阅源
-CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php$订阅源
+CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php$订阅源
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8$订阅源
+CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php$订阅源
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$订阅源
