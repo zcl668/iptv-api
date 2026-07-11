@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-07 20:30:24,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$订阅源
+2026-07-11 19:08:07,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$订阅源
 
 🍎┃广东频道,#genre#
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$订阅源
@@ -17,55 +17,43 @@
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$订阅源
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub$订阅源
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub$订阅源
+东方卫视,http://112.27.235.94:8000/hls/28/index.m3u8$订阅源
+东方卫视,http://112.27.235.94:8000/hls/28/index.m3u8$订阅源
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052$订阅源
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052$订阅源
-山东卫视,http://101.66.199.29:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-山东卫视,http://101.66.199.29:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
-北京卫视,http://101.66.199.29:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub$订阅源
-安徽卫视,http://101.66.199.29:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub$订阅源
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub$订阅源
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
 东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub$订阅源
-东南卫视,http://101.66.199.29:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub$订阅源
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub$订阅源
 广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub$订阅源
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub$订阅源
-甘肃卫视,http://118.193.115.2:9901/tsfile/live/0139_2.m3u8?key=txiptv$订阅源
-甘肃卫视,http://118.193.115.2:9901/tsfile/live/0139_2.m3u8?key=txiptv$订阅源
 贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub$订阅源
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076$订阅源
-贵州卫视,http://101.66.199.29:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072$订阅源
-河北卫视,http://101.66.199.29:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-河南卫视,http://101.66.199.29:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub$订阅源
-黑龙江卫视,http://60.10.139.113:8801/hls/27/index.m3u8$订阅源
-黑龙江卫视,http://60.10.139.113:8801/hls/27/index.m3u8$订阅源
-黑龙江卫视,http://101.66.199.29:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub$订阅源
 湖北卫视,http://60.10.139.113:8801/hls/29/index.m3u8$订阅源
+湖北卫视,http://60.10.139.113:8801/hls/29/index.m3u8$订阅源
 江西卫视,http://drive.mxmy.net:8888/udp/239.3.1.123:8164$订阅源
-江西卫视,http://101.66.199.29:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+吉林卫视,http://223.75.149.129:9906/tsfile/live/0116_1.m3u8?key=txiptv$订阅源
+吉林卫视,http://223.75.149.129:9906/tsfile/live/0116_1.m3u8?key=txiptv$订阅源
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172$订阅源
 辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub$订阅源
-辽宁卫视,http://101.66.199.29:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub$订阅源
+宁夏卫视,http://118.193.115.2:9901/tsfile/live/0112_1.m3u8?key=txiptv$订阅源
 宁夏卫视,http://118.193.115.2:9901/tsfile/live/0112_1.m3u8?key=txiptv$订阅源
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub$订阅源
 天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub$订阅源
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub$订阅源
-云南卫视,http://101.66.199.29:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 西藏卫视,http://107.150.60.122/live/xzws.m3u8$订阅源
 西藏卫视,http://107.150.60.122/live/xzws.m3u8$订阅源
-三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8$订阅源
-三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8$订阅源
 
 🍓┃湾区频道,#genre#
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass$订阅源
@@ -79,7 +67,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
 🍉┃咪咕频道,#genre#
 
 🐟┃少儿频道,#genre#
-金鹰卡通,http://101.66.199.29:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 
 🐶┃影视频道,#genre#
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$订阅源
