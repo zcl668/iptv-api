@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-21 23:05:08,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
+2026-10-23 22:52:39,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
 
 🍎┃广东频道,#genre#
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
@@ -8,18 +8,10 @@
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$订阅源
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0$订阅源
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0$订阅源
-广州新闻,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8$订阅源
-广州新闻,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8$订阅源
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3$订阅源
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3$订阅源
-广东珠江,http://m.061899.xyz/mg/gdzj$订阅源
-广东珠江,http://m.061899.xyz/mg/gdzj$订阅源
-广东珠江,http://go.bkpcp.top/mg/gdzj$订阅源
-广东珠江,http://go.bkpcp.top/mg/gdzj$订阅源
-广东珠江,http://218.13.138.139:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-广东珠江,http://218.13.138.139:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-广东珠江,http://120.238.84.45:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-广东珠江,http://120.238.84.45:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+广州新闻,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8$订阅源
+广州新闻,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8$订阅源
 广州影视频道,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8$订阅源
 
 🥭┃卫视频道,#genre#
@@ -55,6 +47,7 @@
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub$订阅源
 广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub$订阅源
 南方卫视,http://120.237.39.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
+南方卫视,http://120.237.39.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub$订阅源
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub$订阅源
@@ -83,10 +76,10 @@
 农林卫视,http://112.27.5.218:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 农林卫视,http://111.59.24.227:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 农林卫视,http://111.59.24.227:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 农林卫视,http://112.234.22.76:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 农林卫视,http://112.234.22.76:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 
 🍓┃湾区频道,#genre#
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
@@ -98,16 +91,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
 🍉┃咪咕频道,#genre#
 东方卫视咪咕,http://mg.cttv.vip/651632648$订阅源
 东方卫视咪咕,http://mg.cttv.vip/651632648$订阅源
-江苏卫视咪咕,http://go.bkpcp.top/mg/jsws$订阅源
-陕西卫视咪咕,http://j.s.bkpcp.top/jj/sxws$订阅源
-陕西卫视咪咕,http://j.s.bkpcp.top/jj/sxws$订阅源
-陕西卫视咪咕,http://t.061899.xyz/tl/tl.php$订阅源
-陕西卫视咪咕,http://t.061899.xyz/tl/tl.php$订阅源
-陕西卫视咪咕,http://go.bkpcp.top/mg/sxws$订阅源
-陕西卫视咪咕,http://mg.cttv.vip/738910838$订阅源
-湖北卫视咪咕,http://t.061899.xyz/tl/tl.php$订阅源
-江西卫视咪咕,http://t.061899.xyz/tl/tl.php$订阅源
-海南卫视咪咕,http://t.061899.xyz/tl/tl.php$订阅源
 
 🐟┃少儿频道,#genre#
 金鹰卡通,http://112.27.5.218:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
