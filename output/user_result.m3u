@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zcl668/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2026-10-27 23:58:54
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🕘️更新时间",2026-10-30 00:50:41
+http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$订阅源
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🍎┃广东频道",广州综合
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
+http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$订阅源
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🍎┃广东频道",广州综合
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
+http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$订阅源
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🍎┃广东频道",广州综合
 https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0$订阅源
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🍎┃广东频道",广州综合
 https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0$订阅源
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🍎┃广东频道",广州综合
-http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$订阅源
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="🍎┃广东频道",广州综合
-http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$订阅源
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$订阅源
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州新闻.png" group-title="🍎┃广东频道",广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3$订阅源
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州新闻.png" group-title="🍎┃广东频道",广州新闻
@@ -138,9 +138,9 @@ http://111.59.24.227:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/农林卫视.png" group-title="🥭┃卫视频道",农林卫视
 http://111.59.24.227:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/农林卫视.png" group-title="🥭┃卫视频道",农林卫视
-http://112.234.22.76:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/农林卫视.png" group-title="🥭┃卫视频道",农林卫视
-http://112.234.22.76:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Viutv.png" group-title="🍓┃湾区频道",Viutv
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Viutv.png" group-title="🍓┃湾区频道",Viutv
@@ -151,6 +151,22 @@ rtmp://f13h.mine.nu/sat/tv331$订阅源
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="🍓┃湾区频道",TVBS亚洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
+#EXTINF:-1 tvg-name="东方卫视咪咕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视咪咕.png" group-title="🍉┃咪咕频道",东方卫视咪咕
+http://45.78.61.93:1234/651632648$订阅源
+#EXTINF:-1 tvg-name="东方卫视咪咕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视咪咕.png" group-title="🍉┃咪咕频道",东方卫视咪咕
+http://45.78.61.93:1234/651632648$订阅源
+#EXTINF:-1 tvg-name="东方卫视咪咕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视咪咕.png" group-title="🍉┃咪咕频道",东方卫视咪咕
+http://mg.cttv.vip/651632648$订阅源
+#EXTINF:-1 tvg-name="东方卫视咪咕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视咪咕.png" group-title="🍉┃咪咕频道",东方卫视咪咕
+http://mg.cttv.vip/651632648$订阅源
+#EXTINF:-1 tvg-name="江苏卫视咪咕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视咪咕.png" group-title="🍉┃咪咕频道",江苏卫视咪咕
+http://45.78.61.93:1234/623899368$订阅源
+#EXTINF:-1 tvg-name="江苏卫视咪咕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视咪咕.png" group-title="🍉┃咪咕频道",江苏卫视咪咕
+http://mg.cttv.vip/623899368$订阅源
+#EXTINF:-1 tvg-name="陕西卫视咪咕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视咪咕.png" group-title="🍉┃咪咕频道",陕西卫视咪咕
+http://45.78.61.93:1234/738910838$订阅源
+#EXTINF:-1 tvg-name="陕西卫视咪咕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视咪咕.png" group-title="🍉┃咪咕频道",陕西卫视咪咕
+http://mg.cttv.vip/738910838$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🐟┃少儿频道",金鹰卡通
 http://112.27.5.218:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🐟┃少儿频道",金鹰卡通
